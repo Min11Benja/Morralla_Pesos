@@ -1,5 +1,9 @@
 # Morralla_Pesos
 Codigo para Maquina Morralla_Pesos. 
+// Codigo para Prototypo de Maquina "La Moralla"
+// Este codigo detecta los pulsos del monedero electronico multimoneda para luego accionar un relevador que prende el hopper solo siempre y cuando los pulsos del sensor del hopper no excedan a los pulsos contados por el monedero*/
+// Basicamente esta maquina te da feria de a peso $1 al introducirle monedas de $10.00,$5.00,$2.00, esta te arroja x9,x4,x1 peso rexpectivamente, ya que cobra un pedo por feriarte.
+// Tiene la funcion de aceptar 3 monedas de $0.50 para darte una moneda de $1.00 peso.
 
 ###¿Por que publico este codigo?
 Pues yo creo que cualquiera que tenga una maquina de Fruititas* y no quiera tirar su inversion a la basura pero tampoco busca correr el riesgo de que se la lleven los Malos* o la policia, puede convertir de esa maquina de apostar a una maquina que ferea monedas grandes en pesos. Con solo un poco de inversion extra y este codigo podra stener tu maquina fereadora de monedas a pesos. 
