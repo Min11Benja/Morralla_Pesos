@@ -27,10 +27,17 @@ Aqui la liga del foro donde pide ayuda para hacer correr el codigo.
 Aqui las ligas de sus videos de su maquina funcionando.
 
 ###Ligas videos
-Maquina Moralla_Pesos funcionando
-Ensamble de maquina Morralla_Pesos 
+Maquina Morralla_v1 Ferea monedas de $10,$5,$2,$0.50 en monedas de $1
+https://www.youtube.com/watch?v=imXKcqyR9X4
+
+Ensamble de maquina Morralla_Pesos
+[Link de Video Youtube]
+
 Explicacion de partes de la maquina Morralla_Pesos
+[]
+
 Modificacion del mueble Fruititas a una version cutre de una maquina feradora 
+[]
 
 ###Libreria de funciones ultilizadas
 
