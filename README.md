@@ -1,4 +1,8 @@
 # Morralla_Pesos
+
+PDF tutorial paso a paso de como armar esta maquina
+https://drive.google.com/file/d/1STIBDis3MC1J_WjcIFt2KaZz-80KG3DJ/view?usp=sharing
+
 Codigo para Maquina Morralla_Pesos. 
 // Codigo para Prototypo de Maquina "La Moralla"
 // Este codigo detecta los pulsos del monedero electronico multimoneda para luego accionar un relevador que prende el hopper solo siempre y cuando los pulsos del sensor del hopper no excedan a los pulsos contados por el monedero*/
